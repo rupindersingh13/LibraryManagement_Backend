@@ -16,6 +16,7 @@ namespace LibraryAPI.BAL.Service
     {
         public ResultModel<Student_Details> GetAllStudent_Details()
         {
+            //commented
             ResultModel<Student_Details> Result = new ResultModel<Student_Details>();
             Result.lstModel = Context.ExeQueryList<Student_Details>("select  b.*,b1.Image  from Student_Details b left join student_image b1 on b.Student_Id=b1.Student_Id where b.status=1 ORDER BY b.Student_Id");
             return Result;
