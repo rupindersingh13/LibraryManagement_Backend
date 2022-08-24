@@ -1,0 +1,9 @@
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\bin\Debug\netcoreapp3.1\Library.MODEL.deps.json
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\bin\Debug\netcoreapp3.1\Library.MODEL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\bin\Debug\netcoreapp3.1\Library.MODEL.pdb
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\obj\Debug\netcoreapp3.1\Library.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\obj\Debug\netcoreapp3.1\Library.MODEL.AssemblyInfoInputs.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\obj\Debug\netcoreapp3.1\Library.MODEL.AssemblyInfo.cs
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\obj\Debug\netcoreapp3.1\Library.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\obj\Debug\netcoreapp3.1\Library.MODEL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.MODEL\obj\Debug\netcoreapp3.1\Library.MODEL.pdb

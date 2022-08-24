@@ -1,0 +1,10 @@
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\bin\Debug\netcoreapp3.1\Library.DAL.deps.json
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\bin\Debug\netcoreapp3.1\Library.DAL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\bin\Debug\netcoreapp3.1\Library.DAL.pdb
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.AssemblyInfoInputs.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.AssemblyInfo.cs
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.pdb
+C:\Users\rupinder\source\repos\RenueLibrary\Library.DAL\obj\Debug\netcoreapp3.1\Library.DAL.csproj.AssemblyReference.cache

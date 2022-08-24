@@ -1,0 +1,15 @@
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.BAL.deps.json
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.BAL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.BAL.pdb
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.DAL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.MODEL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.DAL.pdb
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\bin\Debug\netcoreapp3.1\Library.MODEL.pdb
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.csproj.AssemblyReference.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.AssemblyInfoInputs.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.AssemblyInfo.cs
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.csproj.CoreCompileInputs.cache
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.csproj.CopyComplete
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.dll
+C:\Users\rupinder\source\repos\RenueLibrary\Library.BAL\obj\Debug\netcoreapp3.1\Library.BAL.pdb
